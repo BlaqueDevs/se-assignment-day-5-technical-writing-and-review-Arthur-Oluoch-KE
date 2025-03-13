@@ -3,7 +3,7 @@
 # SE-DAY5-Technical-Writing
 ## 1. How can understanding your audience’s expertise level (tech experts vs. regular folks) shape the way you present technical information?
 
-For tech experts: Use precise jargon, dive into specifics, and assume familiarity with concepts 
+For tech experts: Use precise jargon, dive into specifics, and assume familiarity with concepts
 
 For regular folks: Simplify terms, focus on relatable outcomes, and avoid overload
 
